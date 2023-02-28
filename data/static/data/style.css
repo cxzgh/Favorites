@@ -1,0 +1,38 @@
+.wid {
+    width: 70%;
+    --bs-card-cap-padding-y: 0!important;
+}
+
+.m-top {
+    margin-top: 50px;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+.bg-fav {
+    --bs-card-bg: #f3fff2!important;
+}
+
+.bg-red {
+    --bs-card-bg: #fff2f2!important;
+}
+
+.bg-egal {
+    --bs-card-bg: #e5efff!important;
+}
+
+.ml-1 {
+    margin-left: 50px;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex-grow: 1;
+}
